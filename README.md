@@ -8,3 +8,5 @@ Some artifacts can appear when there's a significant gap between the faces you c
 This tool is provided as is, without any warranty. Feel free to contribute.
 
 Live demo can be found here: https://soadzoor.github.io/TexturePainter/
+
+![alt text](./demo.png)
